@@ -1,0 +1,16 @@
+title: The Basics Of Coding
+description: the basics of coding
+template:
+  repo: the-basics-of-coding-template
+  name: the-basics-of-coding
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
