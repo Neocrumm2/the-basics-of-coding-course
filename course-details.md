@@ -1,9 +1,9 @@
-This is the description we show on the course page [here](https://lab.github.com/Neocrumm2/the-basics-of-coding). This first paragraph will be featured at the top of the page so make it great.
-​
+this will teach you the basics of coding on github
 
 ​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
+we will use a text editor
+and a computer.
 ​
 
 
-Include information on how they can reach you for questions about the content or course. 
+contact me at [solomongamer50@gmail.com](solomongamer50@gmail.com)

@@ -14,3 +14,12 @@ steps:
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
+labels:
+- HTML
+- CSS
+- Web
+- Github Pages
+tags:
+- Coding
+- Software
+- Github Pages
